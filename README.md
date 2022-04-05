@@ -8,7 +8,7 @@
 <br />
 
 <p>¡Bienvenidos a mi perfil!</p>
-<p>Soy Eber, un desarrollador de software, llevo a cabo proyectos remotos de desarrollo a nivel académico y profesional.</p>
+<p>Soy Eber, un sstudiante entusiasta con pasión por la ingeniería, deseoso de contribuir al éxito del equipo a través de habilidades para resolver problemas, trabajo duro y atención a los detalles. Aprendo rápido, motivado para crecer y sobresalir en la industria de TI.</p>
 
 - 🔭 Actualmente estoy en busca de oportunidades de crecimiento profesional.
 - 🌱 Actualmente estoy cursando el 9.º ciclo de la carrera de Ingeniería de Sistemas de la UNMSM.
