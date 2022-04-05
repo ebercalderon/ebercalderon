@@ -12,7 +12,7 @@
 
 - 🔭 Actualmente estoy en busca de oportunidades de crecimiento profesional.
 - 🌱 Actualmente estoy cursando el 9.º ciclo de la carrera de Ingeniería de Sistemas de la UNMSM.
-- 👯 Busco colaborar en proyectos proyectos innovadores a nivel local e internacional.
+- 👯 Busco colaborar en proyectos innovadores a nivel local e internacional.
 - 💬 No dudes en contactarme para cualquier duda.
 - 📫 Contacto: <a href="mailto:eber99cc@gmail.com">eber99cc@gmail.com</a> 
 
