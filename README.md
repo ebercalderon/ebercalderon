@@ -1,16 +1,16 @@
-### Hola a todos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### <div align="center"> <p>¡Bienvenidos a mi perfil!</p></div>
-<p>Soy Eber, un estudiante entusiasta con pasión por la ingeniería, deseoso de contribuir al éxito del equipo a través de habilidades para resolver problemas, trabajo duro y atención a los detalles. Aprendo rápido, motivado para crecer y sobresalir en la industria de TI.</p>  
+### <div align="center"> <p>Welcome to my profile!</p></div>
+<p>I'm Eber, an enthusiastic student with a passion for engineering, eager to contribute to team success through problem solving skills, hard work and attention to detail. I'm a fast learner, motivated to grow and excel in the IT industry.</p>  
 
-- 🔭 Actualmente estoy en busca de oportunidades de crecimiento profesional.
-- 🌱 Actualmente estoy cursando el 9.º ciclo de la carrera de Ingeniería de Sistemas de la UNMSM.
-- 👯 Busco colaborar en proyectos innovadores a nivel local e internacional.
-- 💬 No dudes en contactarme para cualquier duda.
-- 📫 Contacto: <a href="mailto:eber99cc@gmail.com">eber99cc@gmail.com</a> 
+- 🔭 I am currently looking for professional growth opportunities.
+- 🌱 I am currently studying the 9th cycle of the Systems Engineering degree at UNMSM.
+- 👯 I am looking to collaborate in innovative projects locally and internationally.
+- 💬 Please contact me if you need further information.
+- 📫 Contact me: <a href="mailto:eber99cc@gmail.com">eber99cc@gmail.com</a> 
 
 
-## Lenguajes y herramientas
+## Languages and tools
 
 <div align="center">
   
@@ -25,7 +25,7 @@
 </div>
 
 
-## Mis redes
+## My social networks
 
 <div align="center">
   
@@ -35,11 +35,11 @@
 </div>
 
 
- ## Mis estadísticas de github
+ ## My GitHub stats
 <div align="center">
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ebercalderon&layout=compact&theme=gotham&count_private=true&locale=es)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ebercalderon&layout=compact&theme=gotham&count_private=true&locale=en)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebercalderon&count_private=true&theme=gotham&show_icons=true&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebercalderon&count_private=true&theme=gotham&show_icons=true&locale=en)
 </div>
 
