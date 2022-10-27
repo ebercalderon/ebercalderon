@@ -1,10 +1,10 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### <div align="center"> <p>Welcome to my profile!</p></div>
-<p>I'm Eber, an enthusiastic student with a passion for engineering, eager to contribute to team success through problem solving skills, hard work and attention to detail. I'm a fast learner, motivated to grow and excel in the IT industry.</p>  
+<p>I'm Eber, and I'm passionate about technology and knowledge. I am self-taught, perseverant and I promote teamwork to achieve the objectives of the project under development. Currently I am about to graduate from Systems Engineering, I also have experience and extensive knowledge in information technology.</p>  
 
 - 🔭 I am currently looking for professional growth opportunities.
-- 🌱 I am currently studying the 9th cycle of the Systems Engineering degree at UNMSM.
+- 🌱 I am currently studying the 10th cycle of the Systems Engineering degree at UNMSM.
 - 👯 I am looking to collaborate in innovative projects locally and internationally.
 - 💬 Please contact me if you need further information.
 - 📫 Contact me: <a href="mailto:eber99cc@gmail.com">eber99cc@gmail.com</a> 
