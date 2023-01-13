@@ -38,8 +38,8 @@
  ## My GitHub stats
 <div align="center">
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ebercalderon&layout=compact&theme=gotham&count_private=true&locale=en)
+![Top Languages Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebercalderon&layout=compact&theme=gotham&count_private=true&locale=en)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebercalderon&count_private=true&theme=gotham&show_icons=true&locale=en)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ebercalderon&count_private=true&theme=gotham&show_icons=true&locale=en)
 </div>
 
